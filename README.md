@@ -36,7 +36,7 @@ This query utilizes Common Table Expressions (CTEs) to explore the relationship 
 ## How to run the queries
 To run these queries and explore the project's findings, follow these steps:
 1. Clone this repository to your local machine.
-2. Import the 'PortfolioProjectAlexDA' database into your preferred SQL database management system.
+2. Import the 'PortfolioProjectAlexDA' database into Microsoft SQL Server management studio.
 3. Run the SQL queries from the 'queries' folder in your SQL environment.
 4. Analyze the results to gain insights into the COVID-19 data.
 
