@@ -46,6 +46,6 @@ Feel free to explore the project and modify the queries to suit your analysis ne
 Special thanks to @AlexTheAnalyst (Alex Freberg) for providing the COVID-19 dataset and detailed guide in his free Youtube Data Analyst Bootcamp.
 link of his Youtube playlist - https://www.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF
 
-If you have any questions or feedback, please feel free to [contact me](debsankarpal99@gmail.com).
+If you have any questions or feedback, please feel free to contact me (debsankarpal99@gmail.com).
 
 Happy data exploring!
